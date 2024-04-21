@@ -19,7 +19,7 @@
     <servlet.version>3.1.0</servlet.version>
     <resty.version>${parent.version}</resty.version>
     <jetty.version>9.4.41.v20210516</jetty.version>
-    <undertow.version>2.1.6.Final</undertow.version>
+    <undertow.version>2.3.13.Final</undertow.version>
   </properties>
 
   <dependencies>
